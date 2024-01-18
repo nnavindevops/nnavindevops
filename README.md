@@ -1,3 +1,4 @@
+![Devops1-2048x1338](https://github.com/nnavindevops/nnavindevops/assets/142824958/435e8c62-e01a-47bc-b75d-f7a825ec9613)
 
 I am a DevOps Engineer with experience in deploying and managing infrastructure using HashiCorp Terraform and Jenkins. Proficient in AWS services such as CloudWatch, S3, DynamoDB, VPC, EC2, IAM Users & Roles, Lambda and serverless architecture. Skilled in using Docker and Kubernetes for container orchestration.
 
