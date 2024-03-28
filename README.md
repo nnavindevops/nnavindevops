@@ -10,6 +10,8 @@ I am passionate about technology and the role it plays in enabling businesses to
 
 ##Skills and Experience:
 
+Certifications : AWS devops cloud practitioner.
+
 ⛈ AWS
 💻 Microsoft 365
 🖱 Terraform
